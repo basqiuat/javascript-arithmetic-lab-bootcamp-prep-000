@@ -21,3 +21,7 @@ function inc(a,b){
 function dec(a,b){
   return a - 1  
 }
+
+function (a,b){
+  return a b  
+}
