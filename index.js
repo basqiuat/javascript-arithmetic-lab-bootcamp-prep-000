@@ -18,9 +18,7 @@ function inc(a,b){
   return a + 1  
 }
 
-function preserveDecimal(a,b){
-  return parseFloat(a, 10)  
-}
+
 function dec(a,b){
   return a - 1  
 }
@@ -29,3 +27,6 @@ function makeInt(a,b){
   return parseInt(a, 10)  
 }
 
+function preserveDecimal(a,b){
+  return parseFloat(a, 10)  
+}
