@@ -18,3 +18,6 @@ function inc(a,b){
   return a + 1  
 }
 
+function dec(a,b){
+  return a - 1  
+}
